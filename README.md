@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11613073&assignment_repo_type=AssignmentRepo)
 # Writing Simple-SAM
 
 The [SAM file format](https://en.wikipedia.org/wiki/SAM_(file_format)) covered in class is, together with the [BAM format](https://en.wikipedia.org/wiki/Binary_Alignment_Map) what practically all readmapping tools use these days to describe where patterns (approxmiately) occur in genomes.
